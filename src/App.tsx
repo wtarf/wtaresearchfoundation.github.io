@@ -54,7 +54,7 @@ container mx-auto px-4 py-6
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center">
-               <a href='/'> <img
+               <a href='https://wtarf.com/wtaresearchfoundation.github.io'> <img
                 src="https://wtarf.com/wtaresearchfoundation.github.io/wtarf-logo-150x202.png"
                 alt="WTA Research Foundation Logo"
                 className="h-32 w-32 ml-0 mt-0 mb-0 mr-0" />
