@@ -8,10 +8,10 @@ export function App() {
   const [donationAmount, setDonationAmount] = useState(500);
   
   const researchAreas = [
-    { id: 1, title: 'Tamizhar Flag', description: 'The Tamizhar Flag represents the cultural and historical identity of Tamil people.', image: './wtarf-logo-150x202.png', downloadLink: './tamil_flag.png', filetype: 'PNG' },
-    { id: 2, title: 'Tamil National Thoughts', description: 'Advancing the understanding of Tamil national identity and cultural values', image: './wtarf-v2.jpg', downloadLink: 'https://ontheline.trincoll.edu/images/bookdown/sample-local-pdf.pdf', filetype: 'PDF' },
-    { id: 3, title: 'South Indian Tamils', description: 'Developing and preserving the cultural heritage of South Indian Tamils', image: './wtarf-v3.jpg', downloadLink: '', filetype: 'PDF' },
-    { id: 4, title: 'Tamil Inscription', description: 'Harnessing the wisdom of ancient Tamil inscriptions', image: './wtarf-`v4.jpg', downloadLink: '', filetype: 'PDF' },
+    { id: 1, title: 'Tamizhar Flag', description: 'The Tamizhar Flag represents the cultural and historical identity of Tamil people.', image: './tamil_flag.png', downloadLink: './tamil_flag.png', filetype: 'PNG' },
+    { id: 2, title: 'Tamil National Thoughts', description: 'Advancing the understanding of Tamil national identity and cultural values', image: './v2.jpg', downloadLink: 'https://ontheline.trincoll.edu/images/bookdown/sample-local-pdf.pdf', filetype: 'PDF' },
+    { id: 3, title: 'South Indian Tamils', description: 'Developing and preserving the cultural heritage of South Indian Tamils', image: './v3.jpg', downloadLink: '', filetype: 'PDF' },
+    { id: 4, title: 'Tamil Inscription', description: 'Harnessing the wisdom of ancient Tamil inscriptions', image: './v4.jpg', downloadLink: '', filetype: 'PDF' },
   ];
 
   const publications = [
