@@ -121,7 +121,7 @@ container mx-auto px-4 py-6
           <div className="relative bg-gradient-to-r from-blue-50 to-indigo-50 overflow-hidden">
             
             {/* ## Background Image */}
-            <img src="./public/header-bg.jpg" alt="" className="w-full h-full" />
+            <img src="https://wtarf.com/wtaresearchfoundation.github.io/header-bg.jpg" alt="" className="w-full h-full" />
             {/* ## Background Image */}
             
             <div className="max-w-7xl mx-auto">           
